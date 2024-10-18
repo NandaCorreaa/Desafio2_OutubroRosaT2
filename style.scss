@@ -143,4 +143,13 @@ footer {
         flex-direction: column;
         height: 70vh;
     }
+
+    footer {
+        height: 50vh;
+        flex-direction: column-reverse;
+
+        section {
+            width: 80%;
+        }
+    }
 }

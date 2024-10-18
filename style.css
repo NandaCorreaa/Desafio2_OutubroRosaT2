@@ -124,4 +124,11 @@ footer ul li {
     flex-direction: column;
     height: 70vh;
   }
+  footer {
+    height: 50vh;
+    flex-direction: column-reverse;
+  }
+  footer section {
+    width: 80%;
+  }
 }/*# sourceMappingURL=style.css.map */
